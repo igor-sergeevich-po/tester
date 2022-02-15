@@ -2,9 +2,14 @@ body{
     display: flex;
     justify-content: center;
     box-sizing: border-box;
-    background-color: gray;
+    background-color: rgb(245, 242, 242);
 }
 p{
 
-    color: violet;
+    color: rgb(61, 61, 61);
+}
+
+/* добавлен новый класс */
+.hide {
+    display: none;
 }
